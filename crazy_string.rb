@@ -6,4 +6,4 @@ def crazy_strings(a,b)
   puts "#{new_a} #{new_b}"
 end
 
-crazy_strings("life", "hhsHSsHHSJSHHDSJSSHBHFJS")
+crazy_strings("apple", "hhsHSsHHSJSHHDSJSSHBHFJS")
